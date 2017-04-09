@@ -5,14 +5,19 @@
 # If so, just move on or send me a PR if you want to suggest something helpfull
 
 sudo apt-get update
+
 sudo apt-get upgrade -y
+
 sudo apt-get dist-upgrade -y
+
 sudo apt-get install vim \
                      htop \
                      btrfs-tools \
                      openssh-server \
                      lxd \
                      git \
+                     
+sudo apt-get autroremove --purge -y
 
                    
                      
