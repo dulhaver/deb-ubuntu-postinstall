@@ -17,7 +17,7 @@ sudo apt-get install vim \
                      lxd \
                      git \
                      
-sudo apt-get autroremove --purge -y
+sudo apt-get autoremove --purge -y
 
                    
                      
