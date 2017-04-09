@@ -16,8 +16,9 @@ sudo apt-get install vim \
                      openssh-server \
                      lxd \
                      git \
+                     -y
                      
-sudo apt-get autoremove --purge -y
+sudo apt-get autoremove --purge
 
                    
                      
