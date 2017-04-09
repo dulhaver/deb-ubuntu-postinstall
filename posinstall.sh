@@ -10,7 +10,9 @@ sudo apt-get dist-upgrade -y
 sudo apt-get install vim \
                      htop \
                      btrfs-tools \
-                     openssh-server
+                     openssh-server \
+                     lxd \
+                     git \
 
                    
                      
